@@ -299,7 +299,7 @@ def banner():
     print(f"""\033[1;92m
  
 
-\033[0;92m █████      ███████     ██     ███    ███ 
+     \033[0;92m █████      ███████     ██     ███    ███ 
      \033[0;92m██   ██     ██          ██     ████  ████ 
     \033[0;92m ███████     ███████     ██     ██ ████ ██ 
      \033[0;92m██   ██          ██     ██     ██  ██  ██ 
@@ -308,7 +308,7 @@ def banner():
      \033[0;92m│ [•] AUTHOR   : Asim Xhakma            │
      \033[0;92m│ [•] GITHUB   : ASIM-404               │
      \033[0;92m│ [•] WHATSAPP : +8801828881765         │
-     \033[0;92m│ [•] TOOLS    :\033[1;32m FILE,PUBLIC,OLD CLONER\033[0;92m │
+     \033[0;92m│ [•] TOOLS    :\033[1;32m NUMBER CLONNER\033[0;92m            │
      \033[0;92m└───────────────────────────────────────┘""")
 
 
@@ -356,17 +356,17 @@ def main():
     os.system('clear')
     banner()
     print(f' ')
-    print(f'{M}╔══[ [•] TOOL NAME : {H}ASIM  XD')
+    print(f'{M}╔══[ [•] TOOL NAME : {H}ASIM-XD')
     print(f'{M}║══[ [•] YOR IP    : ')
     print(f'{M}║══[ [•] VERSION   : {H}1.0.9')
-    print(f'{M}╚══[ [•] TOOL NAME : {H}ASIM XD\n')
+    print(f'{M}╚══[ [•] TOOL NAME : {H}BD NUMBER CLONNER\n')
     
     print(f"{M}╔══[{H}[{M}1{H}] \033[1;92mRANDOM BD 06 DIGIT{RED} (BEST) ")
     print(f"║══[{H}[{M}2{H}] \033[1;92mRANDOM BD 07 DIGIT ")
-    print(f"║══[{H}[{M}3{H}] \033[1;92mRANDOM BD 08 DIGIT {RED}BEST")
+    print(f"║══[{H}[{M}3{H}] \033[1;92mRANDOM BD 08 DIGIT {RED} (BEST) ")
     print(f"║══[{H}[{M}4{H}] \033[1;92mRANDOM BD 09 DIGIT ")
     print(f"║══[{H}[{M}5{H}] \033[1;92mRANDOM BD 10 DIGIT ")
-    print(f"║══[{H}[{M}6{H}] \033[1;92mRANDOM BD 11 DIGIT )")
+    print(f"║══[{H}[{M}6{H}] \033[1;92mRANDOM BD 11 DIGIT ")
     print(f"║══[{H}[{M}7{H}] \033[1;92mRANDOM BD 12 DIGIT ")
     print(f"║══[{H}[{M}9{H}] \033[1;92mRANDOM BD 14 DIGIT ")
     print(f"║══[{H}[{M}F{H}] \033[1;92mFOLLOWING ME ON FACEBOOK PUBLIC GROUP {RED}[>/]")
@@ -473,7 +473,7 @@ def sh11():
             uid = code+love
             pwx = [code+love]
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
@@ -533,7 +533,7 @@ def sh9():
             uid = code+love
             pwx = [code+love[2:]]
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
@@ -594,7 +594,7 @@ def sh14():
             uid = code+love
             pwx = [code+love]
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
@@ -654,7 +654,7 @@ def sh10():
             uid = code+love
             pwx = [code+love[1:]]
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
@@ -714,7 +714,7 @@ def sh12():
             uid = code+love
             pwx = [code+love[2:]]
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
@@ -776,7 +776,7 @@ def sh6():
             uid = code+love
             pwx = [code+love[5:]]
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
@@ -835,7 +835,7 @@ def sh13():
             uid = code+love
             pwx = [code+love[1:]]
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
@@ -893,7 +893,7 @@ def sh7():
             uid = code+love
             pwx = [love]         
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
@@ -948,7 +948,7 @@ def sh8():
             uid = code+love
             pwx = [love, 'bangladesh', 'freefire']
             manshera.submit(m,uid,pwx,tl)
-    sh = input(f'\n\n    {M}Go TO ASIMMENU [ Y/N] :{H}  ')
+    sh = input(f'\n\n    {M}Go TO MAIN MENU [ Y/N] :{H}  ')
     if sh =='y':
         check_update()
     elif sh =='Y':
