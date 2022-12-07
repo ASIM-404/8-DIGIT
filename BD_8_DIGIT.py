@@ -308,7 +308,7 @@ def banner():
      \033[0;92m│ [•] AUTHOR   : Asim Xhakma            │
      \033[0;92m│ [•] GITHUB   : ASIM-404               │
      \033[0;92m│ [•] WHATSAPP : +8801828881765         │
-     \033[0;92m│ [•] TOOLS    :\033[1;32m NUMBER CLONNER\033[0;92m            │
+     \033[0;92m│ [•] TOOLS    :\033[1;32m NUMBER CLONNER\033[0;92m         │
      \033[0;92m└───────────────────────────────────────┘""")
 
 
